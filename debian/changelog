@@ -1,0 +1,7 @@
+apertium-is-sv (0.1.0~r56030-1) trusty; urgency=low
+
+  [ Tino Didriksen ]
+  * Initial release
+  * No significant changes in svn since tarball, so taking directly from svn
+
+ -- Kartik Mistry <kartik@debian.org>  Thu, 08 Oct 2015 11:51:15 +0530
