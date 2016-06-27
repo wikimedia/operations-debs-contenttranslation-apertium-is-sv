@@ -1,3 +1,11 @@
+apertium-is-sv (0.1.0~r56030-1+wmf1) jessie-wikimedia; urgency=low
+
+  * Rebuild for Jessie.
+  * Cleanup debian/rules.
+  * Fixed depdencies.
+
+ -- Kartik Mistry <kartik@debian.org>  Mon, 27 Jun 2016 17:17:13 +0530
+
 apertium-is-sv (0.1.0~r56030-1) trusty; urgency=low
 
   [ Tino Didriksen ]
