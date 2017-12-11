@@ -1,3 +1,10 @@
+apertium-is-sv (0.1.0~r76450-1+wmf1) jessie-wikimedia; urgency=low
+
+  * New upstream release.
+  * Depends on cg3 (>= 1.0.0~r12254)
+
+ -- Kartik Mistry <kartik@debian.org>  Mon, 11 Dec 2017 17:06:05 +0530
+
 apertium-is-sv (0.1.0~r56030-1+wmf1) jessie-wikimedia; urgency=low
 
   * Rebuild for Jessie.
